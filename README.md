@@ -1,0 +1,1 @@
+Example using Highcharts gauge in React with 'highcharts-react-official'
